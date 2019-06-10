@@ -1,0 +1,56 @@
+[
+    {
+        "firstname": "ewfew",
+        "lastname": "wegfw",
+        "idno": 11,
+        "state": "karnataka",
+        "city": "aedfbg",
+        "zip": 1221,
+        "phno": 21312412
+    },
+    {
+        "firstname": "sdf",
+        "lastname": "sedef",
+        "idno": 12,
+        "state": "malavalli",
+        "city": "drsf",
+        "zip": null,
+        "phno": 2134
+    },
+    {
+        "firstname": "wrgf",
+        "lastname": "ergd",
+        "idno": 221,
+        "state": "dsvg",
+        "city": "dfbdf",
+        "zip": 2312,
+        "phno": 2321
+    },
+    {
+        "firstname": "deep",
+        "lastname": "dwdqe",
+        "idno": 121,
+        "state": "sdf",
+        "city": "sreg",
+        "zip": 22,
+        "phno": 54153
+    },
+    {
+        "firstname": "sdc",
+        "lastname": "asd",
+        "idno": 2121,
+        "state": "dwesc",
+        "city": "decew",
+        "zip": 2121,
+        "phno": 2121
+    },
+    {
+        "firstname": "ewdf",
+        "lastname": "dfs",
+        "idno": 2121,
+        "state": "dv",
+        "city": "wedv",
+        "zip": 123,
+        "phno": 31234
+    }
+]

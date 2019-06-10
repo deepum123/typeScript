@@ -1,0 +1,38 @@
+{
+  "name": "typescripttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addressBook.js",
+  "dependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/node": "^12.0.7",
+    "babel-cli": "^6.26.0",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.9",
+    "typescript": "^3.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4",
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.7",
+    "babel": "^6.23.0",
+    "chai": "^4.2.0",
+    "json-loader": "^0.5.7",
+    "mocha": "^6.1.4",
+    "mocha-typescript": "^1.1.17",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1",
+    "typings": "^2.1.1"
+  },
+  "scripts": {
+    "test": "mocha-typescript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deepum123"
+  },
+  "author": "Deepu M",
+  "license": "ISC"
+}

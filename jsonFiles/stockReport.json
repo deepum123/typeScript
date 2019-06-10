@@ -1,0 +1,44 @@
+[
+    {
+        "StockNames": "dwef",
+        "NumberofShare": "2131",
+        "SharePrice": "123",
+        "totalprice": 262113
+    },
+    {
+        "StockNames": "ewdrfe",
+        "NumberofShare": "233",
+        "SharePrice": "2334",
+        "totalprice": 543822
+    },
+    {
+        "StockNames": "dee",
+        "NumberofShare": "234",
+        "SharePrice": "3423",
+        "totalprice": 800982
+    },
+    {
+        "StockNames": "fgrg",
+        "NumberofShare": "2323",
+        "SharePrice": "232",
+        "totalprice": 538936
+    },
+    {
+        "StockNames": "dee",
+        "NumberofShare": 1,
+        "SharePrice": 122,
+        "totalprice": 122
+    },
+    {
+        "StockNames": "dae",
+        "NumberofShare": 1,
+        "SharePrice": 1,
+        "totalprice": 1
+    },
+    {
+        "StockNames": "dsd",
+        "NumberofShare": 1,
+        "SharePrice": 1,
+        "totalprice": 1
+    }
+]
