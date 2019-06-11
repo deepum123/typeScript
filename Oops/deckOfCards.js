@@ -1,5 +1,5 @@
 /***************************************************************************************************
- * Execution :  cmd > deckOfCards.ts
+ * Execution :  cmd > tsc deckOfCards.ts && node deckOfCards.js
  * purpose   : Write a Program ​DeckOfCards
  *
  *

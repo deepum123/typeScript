@@ -1,5 +1,5 @@
 /***************************************************************************************************
- * Execution :  cmd > address.ts
+ * Execution :  cmd > tsc address.ts && node address.js
  * purpose   : User Interface for a Simple Address Book
  * 
  * 
@@ -49,9 +49,7 @@ class addressss {
         this.phno = phno;
     }
 }
-let obj = {
-    adressArr: [] as any
-};
+
 
 
 function options() {

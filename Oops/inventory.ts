@@ -1,5 +1,5 @@
 /***************************************************************************************************
- * Execution :  cmd > inventory.ts
+ * Execution :  cmd > tsc inventory.ts && node inventory.js
  * purpose   :  Create a JSON file having Inventory Details for Rice, Pulses 
  *              and Wheats with properties name, weight, price per kg
  * 

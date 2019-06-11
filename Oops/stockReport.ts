@@ -1,5 +1,5 @@
 /***************************************************************************************************
- * Execution :  cmd > stockReport.ts
+ * Execution :  cmd > tsc stockReport.ts && node stockReport.js
  * purpose   : Write a program to read in Stock Names, Number of Share, Share Price.
  *            Print a Stock Report with total value of each Stock and the total value of Stock.
  * 
@@ -35,9 +35,9 @@ class stockk {
         this.totalprice = totalprice
     }
 }
-let obj = {
-    stock: [] as any
-};
+//let obj = {
+ //   stock: [] as any
+//};
 
 
 function user() {
