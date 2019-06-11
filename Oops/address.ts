@@ -259,7 +259,7 @@ function updateAddress(idno: number)
 //updateCity function is used to update the city of perticular person
     function updateCity(index: number) {
         var city = read.question('enter the new city name')
-        data[index].state = city
+        data[index].city = city
         writefile(data)
 
     }
@@ -267,7 +267,7 @@ function updateAddress(idno: number)
 
     function updateZip(index: number) {
         var Zip = parseInt(read.question('enter the new Zip code'))
-        data[index].state = Zip
+        data[index].zip = Zip
         writefile(data)
 
     }
@@ -275,7 +275,7 @@ function updateAddress(idno: number)
     
     function updatePhone(index: number) {
         var Phone = parseInt(read.question('enter the new phone number'))
-        data[index].state = Phone
+        data[index].phno = Phone
         writefile(data)
 
     }
