@@ -1,6 +1,6 @@
 
 /***************************************************************************************************
- * Execution :  cmd > regExp.ts
+ * Execution :  cmd > tsc regExp.ts && node regExp.js
  * purpose   :  Regular Expression Demonstration
  * 
  * 

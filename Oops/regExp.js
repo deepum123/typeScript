@@ -1,6 +1,6 @@
 "use strict";
 /***************************************************************************************************
- * Execution :  cmd > regExp.ts
+ * Execution :  cmd > tsc regExp.ts && node regExp.js
  * purpose   :  Regular Expression Demonstration
  *
  *
@@ -19,7 +19,6 @@ exports.__esModule = true;
 var nameRestriction = /[a-z]/ig;
 var numaricRestriction = /[0-9]/g;
 var readline = require("readline-sync");
-//var readline =require('readline-sync')
 function regExpp() {
     try {
         var name_1 = readline.question("enter your name = ");
